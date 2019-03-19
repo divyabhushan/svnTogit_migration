@@ -1,0 +1,14 @@
+########### SVN TO GIT MIGRATION ###########
+
+Clone this repository as: 
+git clone https://github.com/divyabhushan/svn2git_migration.git
+
+Code includes:
+
+README
+svn2git.sh
+svnCommitters.txt
+
+logs:
+gitCommitterList.txt
+
